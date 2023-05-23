@@ -27,7 +27,7 @@
 
 
 <h3 align="center">Github Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreyajii&show_icons=true&locale=en" alt="atreyajii" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=atreyajii&show_icons=true&locale=en" alt="atreyajii" /></p>
 
 <h3 align="center">Github Streaks:</h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atreyajii&" alt="atreyajii" /></p>
