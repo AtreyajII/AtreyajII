@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Anu Kumari</h1>
 <h3 align="center">A passionate Data Science Student.</h3>
