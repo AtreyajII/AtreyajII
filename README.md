@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreyajii&show_icons=true&locale=en" alt="atreyajii" /></p>
 
 <h3 align="center">Github Streaks:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreyajii&" alt="atreyajii" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atreyajii&" alt="atreyajii" /></p>
 
 
 <h3 align="center">Github Trophies:</h3>
