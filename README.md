@@ -23,7 +23,7 @@
 
 
 <h3 align="center">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atreyajii&show_icons=true&locale=en&layout=compact" alt="atreyajii" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atreyajii&show_icons=true&locale=en&layout=compact" alt="atreyajii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreyajii&show_icons=true&locale=en" alt="atreyajii" /></p>
 
