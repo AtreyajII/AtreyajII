@@ -28,6 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atreyajii&show_icons=true&locale=en" alt="atreyajii" /></p>
 
+<h3 align="left">Github Streaks:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atreyajii&" alt="atreyajii" /></p>
 
+
+<h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atreyajii" alt="atreyajii" /></a> </p>
